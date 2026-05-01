@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 4">
   <style>
-rect{animation:a 1s infinite}@keyframes a{to{opacity:.2}}
+    rect{animation:a 1s infinite}@keyframes a{to{opacity:.2}}
   </style>
   <rect x="0" width="2" height="4" />
   <rect x="3" width="2" height="4" style="animation-delay:.1s" />
