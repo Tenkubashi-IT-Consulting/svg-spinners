@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <g fill="#000">
+    <circle cx="16" cy="4.122" r="2" opacity=".1" />
+    <circle cx="21.939" cy="5.713" r="2" opacity=".25" />
+    <circle cx="26.287" cy="10.061" r="2" opacity=".4" />
+    <circle cx="27.878" cy="16" r="2" opacity=".55" />
+    <circle cx="26.287" cy="21.939" r="2" opacity=".7" />
+    <circle cx="21.939" cy="26.287" r="2" opacity=".85" />
+    <circle cx="16" cy="27.878" r="2" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      calcMode="discrete"
+      dur="1s"
+      values="0 16 16;30 16 16;60 16 16;90 16 16;120 16 16;150 16 16;180 16 16;210 16 16;240 16 16;270 16 16;300 16 16;330 16 16"
+      repeatCount="indefinite" />
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 4">
+  <style>
+rect{animation:a 1s infinite}@keyframes a{to{opacity:.2}}
+  </style>
+  <rect x="0" width="2" height="4" />
+  <rect x="3" width="2" height="4" style="animation-delay:.1s" />
+  <rect x="6" width="2" height="4" style="animation-delay:.2s" />
+  <rect x="9" width="2" height="4" style="animation-delay:.3s" />
+  <rect x="12" width="2" height="4" style="animation-delay:.4s" />
+  <rect x="15" width="2" height="4" style="animation-delay:.5s" />
+  <rect x="18" width="2" height="4" style="animation-delay:.6s" />
+  <rect x="21" width="2" height="4" style="animation-delay:.7s" />
+  <rect x="24" width="2" height="4" style="animation-delay:.8s" />
+  <rect x="27" width="2" height="4" style="animation-delay:.9s" />
+</svg>
