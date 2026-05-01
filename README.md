@@ -1,3 +1,3 @@
-# svg-spinners
+# SVG Spinners
 
-SVG based loading spinners
+SVG based animated loading icons.
